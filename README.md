@@ -55,3 +55,16 @@
 - Both dividends and share prices have been increasing since 2017.
 - The average trading volume over the five periods has been volatile but there isn't any conclusive pattern.
 
+### Glossary
+
+• MEAN
+• MEDIAN
+• MODE
+• VARIANCE
+• STANDARD DEVIATION
+• VOLATILITY
+• HISTOGRAM & NORMAL DISTRIBUTION
+• SKEW & KURTIOS
+• CORRELATION
+• BAR CHART
+
