@@ -12,6 +12,10 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2440866
 
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3460965
 
+*Steps*
+
+Return, Cummulative Return, Distribution, Volatility, Correlation....
+
 Backtesting
 
 ## Stock Analysis
