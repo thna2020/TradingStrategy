@@ -20,19 +20,27 @@
 
 > average closing price within a given time period i.e., year
 
+```
 =AVERAGE(IF(('I. Stock Info'!A:A<=DATE(A5,12,31))*('I. Stock Info'!A:A>=DATE(A5,1,1)),'I. Stock Info'!E:E,""))
+```
 
 > yearly closing price
 
+```
 =INDEX('I. Stock Info'!E:E,MATCH(LARGE(IF(('I. Stock Info'!A:A<=DATE(A5,12,31))*('I. Stock Info'!A:A>=DATE(A5,1,1)),'I. Stock Info'!A:A,""),1),'I. Stock Info'!A:A,0))
+```
 
 > average dividend within a given time period i.e., year
 
+```
 =AVERAGE(IF(('I. Dividend Info'!A:A<=DATE(A5,12,31))*('I. Dividend Info'!A:A>=DATE(A5,1,1)),'I. Dividend Info'!B:B,""))
+```
 
 > average volume within a given time period i.e., year
 
+```
 =AVERAGE(IF(('I. Stock Info'!A:A<=DATE(A5,12,31))*('I. Stock Info'!A:A>=DATE(A5,1,1)),'I. Stock Info'!F:F,""))
+```
 
 ### Commmentary Template
 
