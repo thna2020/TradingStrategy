@@ -85,6 +85,45 @@ Backtesting
 
 • BAR CHART
 
+## Concepts
+
+### Instruments
+
+> Stocks
+
+- Large cap
+- Small cap
+
+> ETFs
+
+> FX / CFD
+
+> Cryptocurrencies
+
+> Futures
+
+> Options
+
+### Risk Premia
+
+> Equity
+
+> Bond
+
+> Volatility
+
+> Illiquidity
+
+### Factor Styles
+
+### Other Inefficiencies
+
+### Strategies
+
+### Other Ideas
+
+
+
 ## References
 
 
