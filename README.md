@@ -2,6 +2,10 @@
 
 Alpha & Beta > Carry > Risk Premia
 
+https://alphaarchitect.com/2015/12/quantitative-momentum-investing-philosophy/
+
+https://quantocracy.com/
+
 ## Stock Analysis
 
 ### Excel Formula
