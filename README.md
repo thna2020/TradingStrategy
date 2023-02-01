@@ -1,5 +1,7 @@
 # TradingStrategy
 
+Alpha & Beta > Carry > Risk Premia
+
 ## Stock Analysis
 
 ### Excel Formula
