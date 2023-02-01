@@ -96,6 +96,11 @@ Backtesting
 
 > ETFs
 
+- Equity Index
+- Bond Index
+- Commodities
+- Alternatives
+
 > FX / CFD
 
 > Cryptocurrencies
@@ -116,12 +121,54 @@ Backtesting
 
 ### Factor Styles
 
+> Short Term MR (short-term momentum returns)
+
+> Momentum
+
+> Carry
+
+> Value
+
+> Low Volatility
+
 ### Other Inefficiencies
+
+> Seasonality
+
+- Price
+- Volatility
+
+> Cointegration
+> Event under / overreaction
 
 ### Strategies
 
+> Beta / Factor
+
+- Diversified "risk premia"
+- Momo / Trend following
+- Mean Reversion
+- Carry trading
+- Volatility Selling
+- Value investing
+- Seasonality trades
+- "Betting against beta"
+
+> Alpha
+- Pairs trading / Stat arb
+- Events trading
+- Options relative value
+- Small cap "pump and dump"
+- Scalping / skew trades
+- Market making
+
 ### Other Ideas
 
+> P2P Lending
+
+> Real Estate
+
+> Betting & prediction markets
 
 
 ## References
