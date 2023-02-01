@@ -12,11 +12,15 @@
 
 > high within a given time period i.e., year
 
+```
 =MAX(IF(('I. Stock Info'!A:A<=DATE(A5,12,31))*('I. Stock Info'!A:A>=DATE(A5,1,1)),'I. Stock Info'!C:C,""))
+```
 
 > low within a given time period i.e., year
 
+```
 =MIN(IF(('I. Stock Info'!A:A<=DATE(A5,12,31))*('I. Stock Info'!A:A>=DATE(A5,1,1)),'I. Stock Info'!D:D,""))
+```
 
 > average closing price within a given time period i.e., year
 
