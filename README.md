@@ -6,6 +6,12 @@ https://alphaarchitect.com/2015/12/quantitative-momentum-investing-philosophy/
 
 https://quantocracy.com/
 
+https://www.quantrocket.com/blog/hedging-long-term-risk-intraday-strategy/
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2440866
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3460965
+
 Backtesting
 
 ## Stock Analysis
@@ -66,13 +72,22 @@ Backtesting
 ### Glossary
 
 • MEAN
+
 • MEDIAN
+
 • MODE
+
 • VARIANCE
+
 • STANDARD DEVIATION
+
 • VOLATILITY
+
 • HISTOGRAM & NORMAL DISTRIBUTION
+
 • SKEW & KURTIOS
+
 • CORRELATION
+
 • BAR CHART
 
