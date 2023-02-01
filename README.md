@@ -2,16 +2,6 @@
 
 Alpha & Beta > Carry > Risk Premia
 
-https://alphaarchitect.com/2015/12/quantitative-momentum-investing-philosophy/
-
-https://quantocracy.com/
-
-https://www.quantrocket.com/blog/hedging-long-term-risk-intraday-strategy/
-
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2440866
-
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3460965
-
 *Steps*
 
 Return, Cummulative Return, Distribution, Volatility, Correlation....
@@ -95,3 +85,17 @@ Backtesting
 
 • BAR CHART
 
+## References
+
+
+https://alphaarchitect.com/2015/12/quantitative-momentum-investing-philosophy/
+
+https://quantocracy.com/
+
+https://www.quantrocket.com/blog/hedging-long-term-risk-intraday-strategy/
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2440866
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3460965
+
+https://towardsdatascience.com/an-even-easier-guide-to-getting-stock-data-with-python-1a109df6b593
