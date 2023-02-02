@@ -1,5 +1,7 @@
 ## Feb 23
 
+### Week 1
+
 Indices: S&P 500 (^SPX) (4k) (up), Nasdaq (^IXIC) (11.5k) (up), Dow (^DJI)(34k)(up)
 
 Picks: SPOT (up 13% 1-day, up 38% YTD), GM (up 8% 1-day, up 16% YTD)
