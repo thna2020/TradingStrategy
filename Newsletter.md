@@ -23,3 +23,7 @@ Higher rates = less money to go around = fewer projects to work on = fewer emplo
 - People want the highest wages possible (obviously)
 - But the higher their wages, the higher the costs of goods & services will be
 - So, higher wages drive inflation, which after adjusting for inflation, ends up being little to no real income gain in the long run
+
+---
+
+Picks: SPOT (up 13% 1-day, up 38% YTD), GM (up 8% 1-day, up 16% YTD)
