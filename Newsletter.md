@@ -26,4 +26,8 @@ Higher rates = less money to go around = fewer projects to work on = fewer emplo
 
 ---
 
-Picks: SPOT (up 13% 1-day, up 38% YTD), GM (up 8% 1-day, up 16% YTD)
+Picks: PTON (up 26% 1-day, up 100% YTD), META (up 3% 1-day, up 22% YTD)
+
+- PTON still (very) unprofitable, losing $0.98/sh vs. $0.64/sh expected, but when you’re down so bad, it doesn’t take much to lift you up.
+- Following Peloton’s playbook of lowering expectations so much that even trash results don’t look like a total dumpster fire, shares in Meta are absolutely popping off after hours.
+- But the real kicker was the $40bn (not a typo) in buybacks the firm has authorized. That’s equivalent to ~10% of shares outstanding and earns the firm a spot in the Buyback Hall of Fame.
