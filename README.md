@@ -160,6 +160,28 @@ Backtesting
 
 > CBOE Volatility Index.
 
+## S&P 500 Sectors
+
+> Consumer Staples. 
+
+> Utilities. 
+
+> Financials. 
+
+> Telecom. 
+
+> Healthcare. 
+
+> Industrials. 
+
+> Information Technology. 
+
+> Materials. 
+
+> Energy%. 
+
+> Consumer Discretionary.
+
 ## References
 
 
