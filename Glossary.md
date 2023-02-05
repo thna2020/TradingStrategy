@@ -26,6 +26,13 @@ A fall in logistics cost lowers their final price and raises demand for goods. T
 
 ## G
 
+> Golden Cross
+
+A golden cross is a chart pattern in which a relatively short-term moving average crosses above a long-term moving average. The golden cross is a bullish breakout pattern formed from a crossover involving a security's short-term moving average (such as the 15-day moving average) breaking above its long-term moving average (such as the 50-day moving average) or resistance level. As long-term indicators carry more weight, the golden cross indicates a bull market on the horizon and is reinforced by high trading volumes.
+- A golden cross is a technical chart pattern indicating the potential for a major rally.
+- The golden cross appears on a chart when a stock’s short-term moving average crosses above its long-term moving average.
+- The golden cross can be contrasted with a death cross indicating a bearish price movement.
+
 ## H
 
 > Histogram & normal distribution
