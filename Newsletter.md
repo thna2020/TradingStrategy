@@ -42,6 +42,33 @@ Picks: PTON (up 26% 1-day, up 100% YTD), META (up 3% 1-day, up 22% YTD)
 - Back from the edge of the metaverse, social media giant Meta Platforms (META) soared more than 20% in after-hours trading on Wednesday as investors renewed their confidence in CEO Mark Zuckerberg. Helping the situation was a big revenue beat, as well as a massive $40B share buyback program. Meta also released a forecast for FQ1 revenue that could reach as high as $28.5B, which would top sales seen during Q1 of 2021 (and was right before Apple's (AAPL) privacy measures heavily dented its ad revenues).
   - anticipate our full-year 2023 total expenses will be in the range of $89-95 billion, lowered from our prior outlook of $94-100 billion due to slower anticipated growth in payroll expenses and cost of revenue.
 
+---
+
+- The Nasdaq soared Thursday, and is off to its best start to the year since 1975. Meta’s upbeat performance and comments a day earlier from Federal Reserve Chairman Jerome Powell fueled the day's rally.
+- Apple's iPhone Sales Fall Short
+  - managed to miss on both the top and bottom lines. EPS and revenues came up short at the US’s largest company, but it kinda only got worse the closer you looked.
+  - sales down due to production delays at its China-reliant factories
+  - but the key to Apple’s success since the passing of Steve (RIP) has been stellar supply chain management
+  - Almost every line item came up short, except (weirdly) iPad sales. 
+- Amazon Gives a Weak Forecast. AWS Missed Too.
+  - No one cared that the firm’s top line of $149.2bn beat guesstimates by nearly $5bn, nor did they care that EPS clocked right in line with expectations. All the attention was on the segments themselves.
+  - In particular, cloud is what mattered to investors. AWS sales gained 20% on the year, well below the growth posted by Microsoft’s Azure and just mildly below street estimates.
+  - The other important line item here from a macro perspective is, of course, the online store sales. This segment contracted 2% on the year, contributing heavily to the firm’s slowest annual revenue growth ever as a public company (just 9%). But still, sales at Amazon.com remained ~44% above the same line item in 2019, which, to be fair, is the year we really should be comparing it to.
+- Ad Spending Slowdown Weighs on Alphabet
+  - Google Cloud, Advertising, YouTube
+- January got us off to a hot start. For the first time in far too long, we could actually check our portfolios without subsequently needing a Safe Space to go cry in. For example, we recently spoke about how January was on track to be (and actually was) the best month ever for Ark’s risk-drunk flagship fund, ARKK.
+- All day long, everyone was getting pumped for three things; earnings from 1) Amazon, 2) Alphabet, and 3) the biggest dawg of them all, Apple. The numbers are out, and it’s only been after-hours (AH) trading thus far, but it’s an early indication that the fun might be over.
+- Those three companies alone represent ~$4.95tn in aggregate market cap, and they just so happened to report earnings on the same day. However, not only do these firms basically control US financial markets, but their numbers give us a broadly specific glimpse into the US as well as parts of the global economy. 
+- Coinbase Global COIN + 24% 1-day, + 150% 1-m
+- SNAP Yesterday, we spent a solid 3-4 paragraphs dumping on Snapchat and how its quarterly figures were worse than the firm’s premium Snapchat+ offering. Obviously, shares stormed upward the day following.
+  - there was no additional news whatsoever. Dip buying and short-profit-taking were almost for sure the driver of yesterday’s gains, proving that if you simply sit around, do nothing, and wait long enough, good things are undoubtedly to come. I just wish I could use that strategy at work.
+- LLY: Shares plunged nearly 3.5% (a certified f*ckload for a blue chip pharma stock) on, you guessed it, interesting earnings results, to say the very least.
+- TikTok, the app that dominates everything from your nighttime routine to the jokes you make with your friends, took a solid 9 months to rack up 100mn unique visitors.
+- For Instagram, that achievement took 2 years.
+- In just about 60 days or roughly two months, ChatGPT officially hit that 100mn unique visitors milestone.
+- ChatGPT: So, to sum it up: a $20 monthly subscription, at least $11bn from the 2nd-biggest tech company in the world, and 100mn unique visitors to its service. Can you even possibly imagine a better product launch? To borrow a word from 2020, this is unprecedented.
+- “The market does not beat them. They beat themselves, because though they have brains they cannot sit tight.” — Jesse Livermore
+
 # 2022
 
 ## Jul
@@ -59,6 +86,17 @@ Picks: PTON (up 26% 1-day, up 100% YTD), META (up 3% 1-day, up 22% YTD)
 - probably see delayed or even canceled CapEx, depending on the urgency of that particular project.
 - For the investor who has never had to watch their money move through a bear market or a recession, now is likely not the time to test your limits.
 - 'd argue that you should know your strengths and weaknesses from a trading perspective and try to stick to a strategy in line with something you know and understand.
+
+---
+
+- Oil was soft, still trading below $100 and signaling a potential economic slowdown.
+-  Investors hadn't been expecting a good quarter, considering that events such as initial public offerings have been very limited all year due to market volatility and uncertainty.
+- as revenues slow, free cash flow takes a dump
+- If you’re new to this game, the last thing you want is to seek out some REIT (Real estate investment trust) looking for a fat 10% dividend only to watch them slash their payout, sending the share price into freefall.
+- Consider some dividend stalwarts like Verizon Wireless of Coca-Cola. VZ pays north of 5%, and KO pays a 2.8% yield.
+- There are also some big banks that tend to protect their dividends as they attempt to attract value investors for the long haul. These names include Goldman Sachs, JP Morgan, and at times, Wells Fargo.
+- A little bit of a dividend can help weather the storm while also generating a little bit of cash flow for you. This can be reinvested or redirected for the next best opportunity that pops up on your horizon.
+
 ## May
 
 ### Week 4
@@ -80,6 +118,8 @@ Picks: PTON (up 26% 1-day, up 100% YTD), META (up 3% 1-day, up 22% YTD)
 - Nordstrom (JWN): Shares ripped nearly 40% by midday to close up 37.8% on one impressive earnings call. EPS trounced expectations, registering $1.23/sh vs. $1.02 expected, and revenue beat by a cool $80mn as well.
   - Sweetening the pie, guidance was higher than expectations, leading many analysts to raise price targets. Not bad for a clothing retailer in the age of Amazon. I guess it’s savvy inventory management FTW!
 - “Betting against entrepreneurs who are changing the world has never been a profitable endeavor.” — Chamath Palihapitiya
+
+---
 
 - the selloff in tech overwhelmed other sectors given the dominance in market cap the sector commands. This led the Nasdaq to tumble 1.56%, while the other indexes held up a little better. The S&P fell 0.53% while the Dow dropped a mere 0.29%.
 - Already, the added friction in the global financial system has been the root of increasing commodity costs. 
