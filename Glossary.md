@@ -76,6 +76,10 @@ Short selling involves borrowing a security whose price you think is going to fa
 
 ## T
 
+> Tight market
+
+A tight market refers to a trading environment in which the price difference between the best bid and offer is very small. Tight markets tend to occur in highly liquid, high-volume blue-chip stocks where there is an abundance of buyers and sellers at all times.
+
 ## U
 
 ## V
