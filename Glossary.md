@@ -10,6 +10,10 @@
 
 > Correlation
 
+> Crude oil
+
+A fall in logistics cost lowers their final price and raises demand for goods. This, in turn, raises the stock price. At the same time, when crude oil prices go up, it increases the cost of production of goods which can negatively impact their stock prices.
+
 ## D
 
 ## E
@@ -53,6 +57,10 @@ Investors targeting a particular asset can find buying opportunities during pull
 ## R
 
 ## S
+
+> Short sales
+
+Short selling involves borrowing a security whose price you think is going to fall from your brokerage and selling it on the open market. Your plan is to then buy the same stock back later, hopefully for a lower price than you initially sold it for, and pocket the difference after repaying the initial loan.
 
 > Skew & kurtios
 
