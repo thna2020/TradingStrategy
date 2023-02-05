@@ -62,6 +62,10 @@ Investors targeting a particular asset can find buying opportunities during pull
 
 ## S
 
+> Sell-side equity research
+
+The general public sees equity research analysts on CNBC explaining their “buy” “sell” or “hold” recommendations on stocks, but the real audience for sell-side equity research is “the buy side” — the investment bank’s institutional clients.
+
 > Short sales
 
 Short selling involves borrowing a security whose price you think is going to fall from your brokerage and selling it on the open market. Your plan is to then buy the same stock back later, hopefully for a lower price than you initially sold it for, and pocket the difference after repaying the initial loan.
