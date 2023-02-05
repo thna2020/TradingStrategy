@@ -31,3 +31,9 @@ Picks: PTON (up 26% 1-day, up 100% YTD), META (up 3% 1-day, up 22% YTD)
 - PTON still (very) unprofitable, losing $0.98/sh vs. $0.64/sh expected, but when you’re down so bad, it doesn’t take much to lift you up.
 - Following Peloton’s playbook of lowering expectations so much that even trash results don’t look like a total dumpster fire, shares in Meta are absolutely popping off after hours.
 - But the real kicker was the $40bn (not a typo) in buybacks the firm has authorized. That’s equivalent to ~10% of shares outstanding and earns the firm a spot in the Buyback Hall of Fame.
+
+---
+
+- Stocks fell Friday as a much stronger than expected jobs report worried some investors that the Federal Reserve would keep hiking interest rates. 
+- the Nasdaq surged 3.3% for a fifth straight weekly advance thanks to strong earnings from some major tech companies
+- **Automotive**: Toyota (NYSE:TM) not only defended its title as the world's top-selling automaker for a third year in a row, but did so by a wide margin. Including subsidiaries Hino Motors and Daihatsu, group sales reached 10.5M vehicles in 2022, compared to the 8.3M of its second-ranked rival Volkswagen (OTCPK:VWAGY). The news comes after Toyota shocked the industry with its first CEO transition in 14 years that could indicate a stronger focus on next-generation vehicles.
