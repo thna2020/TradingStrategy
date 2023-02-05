@@ -182,6 +182,42 @@ Backtesting
 
 > Consumer Discretionary.
 
+## World Indices
+
+> London
+
+> France
+
+> Germany
+
+> Japan
+
+> China
+
+> Hong Kong
+
+> India
+
+## Commodities and Bonds
+
+> Crude Oil WTI. 
+
+> Gold. 
+
+> Natural Gas. 
+
+> Ten-Year Bond Yield.
+
+## Forex and Cryptos
+
+> EUR/USD. 
+
+> USD/JPY. 
+
+> GBP/USD. 
+
+> Bitcoin. 
+
 ## References
 
 
