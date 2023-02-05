@@ -44,6 +44,12 @@ Picks: PTON (up 26% 1-day, up 100% YTD), META (up 3% 1-day, up 22% YTD)
 
 # 2022
 
+## Mar
+
+### Week 1
+
+
+
 ## Feb
 
 ### Week 4
@@ -61,3 +67,5 @@ Picks: PTON (up 26% 1-day, up 100% YTD), META (up 3% 1-day, up 22% YTD)
   - Beyond Meat: it looks like consumers aren’t nearly as excited about fake meat as investors once were. Shares in plant-based “meat” maker Beyond Meat started their publicly traded journey on a massive high, but it’s been all downhill since.
   - Foot Locker: On a day in which 97% of S&P 500 stocks rose, you have to do something truly horrendous to plummet 29.8%. Unfortunately, Foot Locker did just that. 
     - In a brutal showing of “you need me more than I need you,” an announcement revealed that Nike’s focus on selling DTC rather than in retail stores like Foot Locker will result in a significant drop in Nike products going to these locations.
+- As they do each year, the aforementioned MIT Tech Review breaks down what they believe will be the most disruptive/game-changing technology of the coming year.
+- You need to be decisive, open-minded, flexible and competitive. If you're early on in your career and they give you a choice between a great mentor or higher pay, take the mentor every time.” — Stanley Druckenmiller
