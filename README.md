@@ -151,9 +151,13 @@ Backtesting
 ## US Indices
 
 > Dow. 
+
 > S&P 500. 
+
 > Nasdaq. 
+
 > Russell 2000. 
+
 > CBOE Volatility Index.
 
 ## References
