@@ -38,6 +38,10 @@ A fall in logistics cost lowers their final price and raises demand for goods. T
 
 ## L
 
+> Long vs. short
+
+Having a “long” position in a security means that you own the security. Investors maintain “long” security positions in the expectation that the stock will rise in value in the future. The opposite of a “long” position is a “short” position. A "short" position is generally the sale of a stock you do not own.
+
 ## M
 
 > Mean
