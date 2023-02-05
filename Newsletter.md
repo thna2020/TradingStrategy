@@ -44,11 +44,55 @@ Picks: PTON (up 26% 1-day, up 100% YTD), META (up 3% 1-day, up 22% YTD)
 
 # 2022
 
+## Jul
+
+### Week 3
+
+- Supply-and-demand is the law of the land, but outsized shifts in pricing tend to be sticky, regardless of the type of good or service. In short, it’s unlikely that you’ll see prices move back down to February of 2020 levels. Ever.
+- As prices go up, real wages are being flushed down the toilet.
+- What some consumers don’t realize is that their credit card APRs are going to shift as the Fed jacks up interest rates to fight inflation. Not only are you paying exorbitant prices, but you’re also about to start paying (even) more in interest when you send off those e-payments to your credit cards. If you thought paying CC interest was a good deal at 17% APR, you’re going to love it at 30%. That’s the reality that some consumers are about to enter.
+- APPL +: consultants are predicting that back-to-school spending will reach an all-time high this year. Congress wants to regulate Big Tech, but it turns out that voters don’t really care. That’s good for Apple.
+- COST +
+- NVAX -: super late to market. So late that their vax probably won’t be widely distributed in the West at premium prices. Their shares collapsed 26.20% on Thursday.
+- For many businesses, this means controlling their expenditures. Cutting costs might not be enough, so we might end up seeing some drastic measures.
+- Hiring freezes are likely going to become pretty popular, even amid a very, very, very tight labor market. 
+- probably see delayed or even canceled CapEx, depending on the urgency of that particular project.
+- For the investor who has never had to watch their money move through a bear market or a recession, now is likely not the time to test your limits.
+- 'd argue that you should know your strengths and weaknesses from a trading perspective and try to stick to a strategy in line with something you know and understand.
+## May
+
+### Week 4
+
+- Futures yesterday were under pressure ahead of the Federal Open Market Committee (FOMC) minutes release.
+- Some of you have never experienced a tightening cycle, so I’d encourage you to pay attention to the news from the various sources as well as read the guidance from the committee and JPow directly.
+- Last month’s 50 bps rate hike was the largest in 22 years, but we’re also dealing with inflation that is higher than we have seen in the last 40 years.
+- Nordstrom JWN: Nordstrom’s guidance stated that the consumer wasn’t yet affected by inflation and that they still wanted fancy clothes to wear to fancy events. They had a good quarter, and they posted a beat and raise for the remainder of their fiscal year. JWN was up almost 10% pre-market and ended the day up 14.02%.
+- Best Buy BBY: Best Buy beat expectations for both top and bottom line estimates, sending shares ripping during yesterday’s session. Even in a quarter where revenue declined, they still topped what Wall Street was predicting.
+  - Their leadership thinks that softer demand is here to stay for a while, but they’re not taking their foot off the gas. They expect to continue selling electronics merch that is central to our lives in the digital age.
+- Procter & Gamble (PG): The maker of your toothpaste was the biggest loser in the Dow yesterday, slipping 1.64%. A value name that still delivers some decent yield, the tide pod distributor is actually not having a terrible year. 
+- “Gentlemen prefer bonds.” — Andrew Mellon
+
 ## Mar
 
 ### Week 1
 
+- Rate hikes generally lead to lower stock valuations, but when you’re expecting a hike of 50bps and the damn Chairman of the Fed says, “Nah fam, we’re only raising by half that,” people get excited.
+- Nordstrom (JWN): Shares ripped nearly 40% by midday to close up 37.8% on one impressive earnings call. EPS trounced expectations, registering $1.23/sh vs. $1.02 expected, and revenue beat by a cool $80mn as well.
+  - Sweetening the pie, guidance was higher than expectations, leading many analysts to raise price targets. Not bad for a clothing retailer in the age of Amazon. I guess it’s savvy inventory management FTW!
+- “Betting against entrepreneurs who are changing the world has never been a profitable endeavor.” — Chamath Palihapitiya
 
+- the selloff in tech overwhelmed other sectors given the dominance in market cap the sector commands. This led the Nasdaq to tumble 1.56%, while the other indexes held up a little better. The S&P fell 0.53% while the Dow dropped a mere 0.29%.
+- Already, the added friction in the global financial system has been the root of increasing commodity costs. 
+- Companies like Apple, Ford, Dell, and Exxon pulling products from the Russian market and supply chain constraints will likely translate to further price increases.
+- Either way, oil went negative in 2020, so nothing should surprise us anymore.
+- Splunk up 6% 
+  - The machine-software firm reported an adjusted EPS of $0.66, while the Street was expecting a loss of $0.22. Further, revenue for the quarter smashed both analysts and management expectations, raking in $901mn vs. $777mn anticipated.
+  - Any other day where there’s not a massive tech selloff and this stock is up 20% at least. 
+- Kroger KR: Calling this a solid report would be an understatement. The grocer reported an income of $0.91/sh on $33bn in sales, while analysts were looking for just $0.71/sh on similar sales figures, which led to a monstrous 11.6% one-day gain, the company’s largest since god damn 1993.
+- Snowflake SNOW: 
+  - Slowing revenue, that’s what's going on. Down from 110% last quarter, sales only grew 101% in Q4 on an annualized basis. Equally as disgusting, gross margins came in a massive 90bps lower than expectations. Just disgusting. 
+  - 101% sales growth and a slight margin miss? Damn right the stock was down 15.6% yesterday.
+- RIVN: Tuesday’s announcement from Rivian of a roughly 20% price increase on future and already placed orders on their soon-to-be produced trucks has been quickly overturned. --> lose-lose-lose
 
 ## Feb
 
