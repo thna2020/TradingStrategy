@@ -2,6 +2,10 @@
 
 ## A
 
+> Adjusted EPS
+
+Adjusted EPS is a type of EPS calculation in which the analyst makes adjustments to the numerator. Typically, this consists of adding or removing components of net income that are deemed to be non-recurring. For instance, if the company's net income was increased based on a one-time sale of a building, the analyst might deduct the proceeds from that sale, thereby reducing net income. In that scenario, adjusted EPS would be lower than basic EPS.
+
 ## B
 
 > Bar chart
