@@ -24,6 +24,18 @@ A fall in logistics cost lowers their final price and raises demand for goods. T
 
 ## F
 
+> FX headwind
+
+- FX headwinds refer to the negative impact that foreign exchange (FX) movements can have on a company's financial performance. FX headwinds occur when the value of a company's domestic currency declines relative to the currencies of its key trading partners. This can result in higher costs for the company, as it has to pay more for goods and services priced in foreign currencies.
+
+- For example, if a company is based in the United States and generates revenue in euros, a weakening of the dollar relative to the euro will result in lower revenue when translated back into dollars. This is known as an FX headwind.
+
+- FX headwinds can be particularly challenging for multinational companies that operate in multiple countries and generate revenue in different currencies. In such cases, the company is exposed to FX risk, which can result in significant volatility in its earnings.
+
+- To mitigate FX headwinds, companies can use hedging strategies to lock in exchange rates and reduce the impact of FX movements on their financial performance. For example, a company may use currency forwards, options, or swaps to hedge against unfavorable exchange rate movements.
+
+- It is important to note that FX headwinds are just one of many factors that can impact a company's financial performance, and their impact can vary greatly depending on the company's specific circumstances and the state of the global economy.
+
 ## G
 
 > Golden Cross
