@@ -69,6 +69,16 @@ Investors targeting a particular asset can find buying opportunities during pull
 
 ## Q
 
+> Quant rating
+
+- Quant rating is a type of investment analysis that uses mathematical models and algorithms to make investment decisions. The goal of quant rating is to identify stocks, bonds, or other financial instruments that are likely to perform well in the future based on a range of numerical and statistical factors.
+
+- Quant rating systems analyze large amounts of data, such as financial statements, market trends, and economic indicators, to determine the potential for investment returns. The data is processed using algorithms and mathematical models to produce a quantitative score or rating for each security.
+
+- Quant rating is a popular tool for investment managers, who use it to build portfolios, make investment decisions, and monitor the performance of their investments. Quant rating is also used by individual investors who are looking for a systematic and objective approach to investment analysis.
+
+- It is important to note that quant rating is just one of many approaches to investment analysis, and it is not a guarantee of investment success. Like any investment strategy, quant rating has its limitations, and it may not be suitable for all types of investors.
+
 ## R
 
 ## S
