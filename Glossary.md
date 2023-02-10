@@ -115,6 +115,10 @@ A tight market refers to a trading environment in which the price difference bet
 
 ## U
 
+> Upside/Downside Ratio
+
+
+
 ## V
 
 > Variance
