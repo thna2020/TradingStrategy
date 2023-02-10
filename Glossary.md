@@ -71,6 +71,8 @@ Having a “long” position in a security means that you own the security. Inve
 
 ## O
 
+> Options
+
 ## P
 
 > Pullback
