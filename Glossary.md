@@ -99,6 +99,12 @@ Having a “long” position in a security means that you own the security. Inve
 
 - Over-the-counter (OTC) securities are securities that are not listed on a major exchange in the United States and are instead traded via a broker-dealer network, usually because many are smaller companies and do not meet the requirements to be listed on a formal exchange. There may be additional steps and fees when trading OTC securities because trades must be made through market makers who carry an inventory of securities to facilitate trading. 
 
+> Outperform the market
+
+- Alpha Picks has surged 25.52% in total vs just 8.76% for the S&P 500. That means it’s outperforming the market by 16.76%!
+- Portfolio up 10% vs 5% for the S&P 500 --> outperform the market by 5%.
+
+
 ## P
 
 > Pullback
