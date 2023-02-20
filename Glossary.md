@@ -102,7 +102,7 @@ Having a “long” position in a security means that you own the security. Inve
 > Outperform the market
 
 - Alpha Picks has surged 25.52% in total vs just 8.76% for the S&P 500. That means it’s outperforming the market by 16.76%!
-- Portfolio up 10% vs 5% for the S&P 500 --> outperform the market by 5%.
+- Portfolio up 10% vs 5% for the S&P 500 -> outperform the market by 5%.
 
 
 ## P
