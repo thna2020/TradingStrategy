@@ -232,3 +232,8 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2440866
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3460965
 
 https://towardsdatascience.com/an-even-easier-guide-to-getting-stock-data-with-python-1a109df6b593
+
+https://www.wallstreetoasis.com/resources/careers/jobs/sales-and-trading
+
+https://www.wallstreetoasis.com/resources/skills/accounting/profit-and-loss-pnl
+
