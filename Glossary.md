@@ -129,6 +129,13 @@ Investors targeting a particular asset can find buying opportunities during pull
 
 The general public sees equity research analysts on CNBC explaining their “buy” “sell” or “hold” recommendations on stocks, but the real audience for sell-side equity research is “the buy side” — the investment bank’s institutional clients.
 
+> Short interest
+
+- Short interest indicates how many shares of a company are currently sold short and not yet covered.
+- An increase in short interest often signals that investors have become more bearish, while a decrease in short interest shows that they have become more bullish.
+- If the short interest for a stock rises from 10% to 20%, it may be a warning sign that negative sentiment is growing toward the company, as the number of investors who expect the stock price to decrease has doubled.
+- The short interest ratio represents the number of days it takes short sellers on average to cover their positions, that is repurchase all of the borrowed shares. 
+
 > Short sales
 
 Short selling involves borrowing a security whose price you think is going to fall from your brokerage and selling it on the open market. Your plan is to then buy the same stock back later, hopefully for a lower price than you initially sold it for, and pocket the difference after repaying the initial loan.
@@ -153,6 +160,8 @@ A tight market refers to a trading environment in which the price difference bet
 > Variance
 
 > Volatility
+
+- volatility of return  = standard deviation
 
 ## W
 
