@@ -2,6 +2,17 @@
 
 ## Feb
 
+Factors that move energy markets
+1. EIA weekly reports: Released on Wednesdays, EIA reports track US crude inventories levels stored for future use.
+2. API weekly reports: Released on Tuesdays, API reports track total US and regional inventories and refinery operations data.
+3. OPEC meetings: When the 14 top exporting countries gather for OPEC meetings, the oil markets listen.
+4. Refinery capacity reports: These reports track use vs. capacity for available oil refineries.
+5. GDP reports: GDP reports track the health of the US economy, and in turn, consumer demand for gasoline.
+6. Natural gas inventory reprorts: Cheaper natural gas affects oil demand as a viable energy alternative.
+7. Weather events: Weather can impact major production sites and pipelines.
+8. World events: Events such as war, financial crises and elections can affect oil policy and costs.
+9. Import/export policy changes: Updates to policy can dramatically impact world oil supply—and in turn, prices.
+
 ### Week 3
 
 - Opportunities to invest large chunks of cash come around occasionally, like when bonds mature, and that capital needs a new home.
