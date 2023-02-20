@@ -174,6 +174,10 @@ Short selling involves borrowing a security whose price you think is going to fa
 
 > Skew & kurtios
 
+> SPAC
+
+- A special purpose acquisition company, also known as a "blank check company", is a shell corporation listed on a stock exchange with the purpose of acquiring a private company, thus making it public without going through the traditional initial public offering process and the associated regulations thereof.
+
 > Standard deviation
 
 ## T
