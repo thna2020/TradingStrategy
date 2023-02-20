@@ -6,7 +6,13 @@
 
 - Opportunities to invest large chunks of cash come around occasionally, like when bonds mature, and that capital needs a new home.
 - Retail heavyweights: Walmart (WMT) and Home Depot (HD) are both due to report Q4 earnings on February 21
-
+- Williams Companiies WMB Management is scheduled to give in-depth presentations covering the company's natural gas-focused strategy to meet growing clean energy demands.
+- One of the biggest consumer events of the year will take place next week with the Consumer Analyst Group of New York Conference takes place in New York City. The conference will have a heavy focus on food stocks with Sysco (SYY), General Mills (GIS), Conagra (CAG), Coca-Cola (KO), Kraft-Heinz (KHC), PepsiCo (PEP), J.M. Smucker (SJM), and Hostess Brands (TWNK) all set to appear. 
+- GOOG's stock price is near its 2Y lows after the Bard mishap, providing investors a chance to subsequently reduce their dollar cost averages.
+  - The company is more than a search engine, with YouTube's 2.56B MAU, Google Cloud's growing RPO, and Google Play's 32.8% market share.
+    - A recovery point objective (RPO), which is the maximum acceptable length of time during which data might be lost from your application due to a major incident.
+  - Combined with the robust FY2022 revenues of $282.83B and net income of $59.97B, GOOG remained the largest advertising company globally.
+  - Mishaps like Bard might only fuel the company's speed and rate of innovation moving forward.
 
 ### Week 1
 
