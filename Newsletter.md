@@ -97,6 +97,16 @@ Picks: PTON (up 26% 1-day, up 100% YTD), META (up 3% 1-day, up 22% YTD)
 - ChatGPT: So, to sum it up: a $20 monthly subscription, at least $11bn from the 2nd-biggest tech company in the world, and 100mn unique visitors to its service. Can you even possibly imagine a better product launch? To borrow a word from 2020, this is unprecedented.
 - “The market does not beat them. They beat themselves, because though they have brains they cannot sit tight.” — Jesse Livermore
 
+## Jan
+
+| Company | Market Cap | Company Description |
+| --- | ----------- | --- |
+| Bed Bath & Beyond (NASDAQ:BBBY) | $153.7 million | Brick-and-mortar retailer of home goods and accessories. |
+| Blackberry (NYSE:BB) | $2.1 billion | Smartphone darling of the 2000s turned software company. |
+| Nokia (NYSE:NOK) | $27.4 billion | A top seller of telecom infrastructure equipment. |
+| Palantir (NYSE:PLTR) | $11.3 billion | Software company specializing in big data, AI, and digital transformation. |
+| Virgin Galactic (NYSE:SPCE) | $1.01 billion | A former SPAC stock and pioneer in space tourism and travel. |
+
 # 2022
 
 ## Jul
