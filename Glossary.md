@@ -27,6 +27,12 @@ A fall in logistics cost lowers their final price and raises demand for goods. T
 
 ## E
 
+> EM
+
+- Emerging markets are countries with some characteristics of a developed market but are not yet fully developed. These countries have rapid GDP growth and industrialization, growing per capita income, increasing debt and equity markets liquidity, and established financial system infrastructures.
+- There are many emerging markets around the world, but the four largest are known as the "BRICs" (an acronym for Brazil, Russia, India, and China). Many investors believe that these markets are relatively stable and may eventually replace the G7 as the world's next superpowers.
+- From a trading perspective, emerging markets are simply another place to seek out opportunities. Emerging economies tend to be more volatile because of instabilities in the financial or political climate, but these can also offer high rates of returns on associated investments.
+
 ## F
 
 > Form 3F
