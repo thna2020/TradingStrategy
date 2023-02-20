@@ -87,8 +87,18 @@ Having a “long” position in a security means that you own the security. Inve
 
 ## M
 
+> Margin
+
+- Margin trading refers to borrowing money from the broker to purchase stock. The investor is allowed to buy more securities than what he can afford with the available funds at the moment.
+
 > Mean
 > Median
+
+> Meme stocks
+
+- Simply put, meme stocks skyrocket in price in a short period (often hours or days) because of a sudden surge in interest online or on social media and subsequent buying among small individual investors. These short-term surges can often reverse course just as quickly, though, making meme stocks far more volatile than average stock market moves.
+- GameStop (GME) is widely regarded as the first meme stock, whose stock price rose as much as 100× over the course of several months as members of its meme community crafted a spectacular short squeeze.
+
 > Mode
 
 ## N
@@ -155,6 +165,12 @@ The general public sees equity research analysts on CNBC explaining their “buy
 > Short sales
 
 Short selling involves borrowing a security whose price you think is going to fall from your brokerage and selling it on the open market. Your plan is to then buy the same stock back later, hopefully for a lower price than you initially sold it for, and pocket the difference after repaying the initial loan.
+
+> Short squeeze
+
+- In the stock market, a short squeeze is a rapid increase in the price of a stock owing primarily to an excess of short selling of a stock rather than underlying fundamentals.
+- A short squeeze happens when many investors bet against a stock and its price shoots up instead. A short squeeze accelerates a stock's price rise as short sellers bail out to cut their losses. Contrarian investors try to anticipate a short squeeze and buy stocks that demonstrate a strong short interest.
+- If a stock's price rises quickly, then short sellers sometimes scramble to close out their positions as rapidly as possible. A high volume of investors who are shorting a stock and racing to exit their positions at the same time creates a short squeeze.
 
 > Skew & kurtios
 
