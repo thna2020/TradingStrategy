@@ -2,6 +2,12 @@
 
 ## Feb
 
+### Week 3
+
+- Opportunities to invest large chunks of cash come around occasionally, like when bonds mature, and that capital needs a new home.
+- Retail heavyweights: Walmart (WMT) and Home Depot (HD) are both due to report Q4 earnings on February 21
+
+
 ### Week 1
 
 Indices: S&P 500 (^SPX) (4k) (up), Nasdaq (^IXIC) (11.5k) (up), Dow (^DJI)(34k)(up)
