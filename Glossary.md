@@ -89,6 +89,10 @@ Having a “long” position in a security means that you own the security. Inve
 
 -  Basically, when the market believes a stock will be very volatile, the time value of the option rises. On the other hand, when the market believes a stock will be less volatile, the time value of the option falls. The expectation by the market of a stock's future volatility is key to the price of options.
 
+> OTC
+
+- Over-the-counter (OTC) securities are securities that are not listed on a major exchange in the United States and are instead traded via a broker-dealer network, usually because many are smaller companies and do not meet the requirements to be listed on a formal exchange. There may be additional steps and fees when trading OTC securities because trades must be made through market makers who carry an inventory of securities to facilitate trading. 
+
 ## P
 
 > Pullback
