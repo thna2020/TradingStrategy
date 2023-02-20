@@ -237,3 +237,4 @@ https://www.wallstreetoasis.com/resources/careers/jobs/sales-and-trading
 
 https://www.wallstreetoasis.com/resources/skills/accounting/profit-and-loss-pnl
 
+https://www.codingfinance.com/post/2018-04-10-cumulative-portfolio-returns-py/
