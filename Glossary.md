@@ -20,9 +20,18 @@ A fall in logistics cost lowers their final price and raises demand for goods. T
 
 ## D
 
+> Dividends
+
+- Companies that increase their dividends send a positive signal to investors and analysts that the company can maintain growth and profitability into the future. 1 As a way to distribute profits to shareholders, dividend increases can attract new investors who seek income in addition to capital gains in their portfolio.
+  - Companies that increase their dividend payments year after year are usually less volatile than the broader market. Some companies also respond to inflation by raising dividend payments. And the steady income from dividends can help smooth out a stock's total return.
+
 ## E
 
 ## F
+
+> Form 3F
+
+- Reports on Form 13F are intended to increase the public availability of information on the securities holdings of institutional investors. Under Exchange Act Rule 13f-1, in general an institutional investment manager is either: An entity that invests in, or buys and sells, securities for its own account.
 
 > FX headwind
 
@@ -77,6 +86,8 @@ Having a “long” position in a security means that you own the security. Inve
 ## O
 
 > Options
+
+-  Basically, when the market believes a stock will be very volatile, the time value of the option rises. On the other hand, when the market believes a stock will be less volatile, the time value of the option falls. The expectation by the market of a stock's future volatility is key to the price of options.
 
 ## P
 
