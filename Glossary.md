@@ -162,9 +162,13 @@ The general public sees equity research analysts on CNBC explaining their “buy
 - If the short interest for a stock rises from 10% to 20%, it may be a warning sign that negative sentiment is growing toward the company, as the number of investors who expect the stock price to decrease has doubled.
 - The short interest ratio represents the number of days it takes short sellers on average to cover their positions, that is repurchase all of the borrowed shares. 
 
+> Short position
+
+- A short position is one that bets against the market, profiting when prices decline. To sell short is to take such a bet. This is opposed to a long position, which involves buying an asset in hopes that the price will rise.
+
 > Short sales
 
-Short selling involves borrowing a security whose price you think is going to fall from your brokerage and selling it on the open market. Your plan is to then buy the same stock back later, hopefully for a lower price than you initially sold it for, and pocket the difference after repaying the initial loan.
+- Short selling involves borrowing a security whose price you think is going to fall from your brokerage and selling it on the open market. Your plan is to then buy the same stock back later, hopefully for a lower price than you initially sold it for, and pocket the difference after repaying the initial loan.
 
 > Short squeeze
 
