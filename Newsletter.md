@@ -14,6 +14,9 @@
   - Combined with the robust FY2022 revenues of $282.83B and net income of $59.97B, GOOG remained the largest advertising company globally.
   - Mishaps like Bard might only fuel the company's speed and rate of innovation moving forward.
 
+- META's post-earnings surge has stalled. Savvy bottom-fishers have likely taken the opportunity to cut exposure and offer them to the recent late buyers.
+  - META's highly attractive valuation has also normalized, aligning with its peers' median and dampening its appeal to investors.
+
 ### Week 1
 
 Indices: S&P 500 (^SPX) (4k) (up), Nasdaq (^IXIC) (11.5k) (up), Dow (^DJI)(34k)(up)
