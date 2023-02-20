@@ -53,6 +53,11 @@ A golden cross is a chart pattern in which a relatively short-term moving averag
 
 ## J
 
+> JEPI
+
+- JPMorgan Equity Premium Income ETF: low volatility but high yield in 2022.
+
+
 ## K
 
 ## L
@@ -95,6 +100,14 @@ Investors targeting a particular asset can find buying opportunities during pull
 
 ## R
 
+> REIT
+
+- REITs, or real estate investment trusts, are companies that own or finance income-producing real estate across a range of property sectors.
+
+> Risk-to-reward ratio
+
+- If you have a risk-reward ratio of 1:3, it means you're risking $1 to potentially make $3. If you have a risk-reward ratio of 1:5, it means you're risking $1 to potentially make $5. You get my point. “You need a minimum of 1:2 risk reward ratio.”
+
 ## S
 
 > Sell-side equity research
@@ -118,7 +131,6 @@ A tight market refers to a trading environment in which the price difference bet
 ## U
 
 > Upside/Downside Ratio
-
 
 
 ## V
