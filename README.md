@@ -1,4 +1,4 @@
-# TradingStrategy
+# Trading Strategy
 
 Alpha & Beta > Carry > Risk Premia
 
