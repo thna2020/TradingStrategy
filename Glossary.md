@@ -29,6 +29,10 @@ A fall in logistics cost lowers their final price and raises demand for goods. T
 - Companies that increase their dividends send a positive signal to investors and analysts that the company can maintain growth and profitability into the future. 1 As a way to distribute profits to shareholders, dividend increases can attract new investors who seek income in addition to capital gains in their portfolio.
   - Companies that increase their dividend payments year after year are usually less volatile than the broader market. Some companies also respond to inflation by raising dividend payments. And the steady income from dividends can help smooth out a stock's total return.
 
+> Dotted line
+
+- The dotted line on the graphs shows you at what stock price the market closed the day before.
+
 ## E
 
 > EM
