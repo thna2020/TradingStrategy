@@ -121,7 +121,8 @@ Having a “long” position in a security means that you own the security. Inve
 
 > OTC
 
-- Over-the-counter (OTC) securities are securities that are not listed on a major exchange in the United States and are instead traded via a broker-dealer network, usually because many are smaller companies and do not meet the requirements to be listed on a formal exchange. There may be additional steps and fees when trading OTC securities because trades must be made through market makers who carry an inventory of securities to facilitate trading. 
+- Over-the-counter (OTC) securities are securities that are not listed on a major exchange in the United States and are instead traded via a broker-dealer network, usually because many are smaller companies and do not meet the requirements to be listed on a formal exchange. There may be additional steps and fees when trading OTC securities because trades must be made through market makers who carry an inventory of securities to facilitate trading.
+- Over-the-Counter (OTC) trades for securities are transacted via a dealer network as opposed to on a centralized exchange such as NYSE. 
 
 > Outperform the market
 
@@ -136,6 +137,14 @@ Having a “long” position in a security means that you own the security. Inve
 Pullbacks are a short-term, temporary drop in the price of an asset like stock during a longer-term uptrend. 
 Investors targeting a particular asset can find buying opportunities during pullbacks, although they would need to weigh other factors.
 --> Buy on pullback
+
+> Put-call ratio
+
+- The put-call ratio is calculated by dividing the number of traded put options by the number of traded call options. A put-call ratio of 1 indicates that the number of buyers of calls is the same as the number of buyers for puts.
+
+> Put vs call options
+
+- A put option gives the buyer the right, but not the obligation, to sell an asset at a specified price (the strike price) before the option's expiration date. A call option gives the buyer the right, but not the obligation, to buy an asset at a specified price (the strike price) prior to its expiration date.
 
 ## Q
 
