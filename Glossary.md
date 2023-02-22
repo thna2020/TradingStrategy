@@ -22,6 +22,12 @@ Adjusted EPS is a type of EPS calculation in which the analyst makes adjustments
 
 A fall in logistics cost lowers their final price and raises demand for goods. This, in turn, raises the stock price. At the same time, when crude oil prices go up, it increases the cost of production of goods which can negatively impact their stock prices.
 
+> Cumulative return
+
+- Cumulative return is the return on the investment in total. For instance, the money gained in the first year of an investment would be the annualized return. The total return of investment accumulated at the end of the second year would be the cumulative return.
+- S&P 500: $100 in 2000 → $448.08 in 2023
+  - This is a return on investment of 348.08%, or 6.71% per year. This lump-sum investment beats inflation during this period for an inflation-adjusted return of about 157.91% cumulatively, or 4.19% per year.
+
 ## D
 
 > Dividends
