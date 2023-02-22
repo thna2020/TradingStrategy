@@ -86,3 +86,21 @@ Ferrari (RACE) has made some efforts to improve its ESG (Environmental, Social, 
 - However, there are some concerns related to the company's governance practices, particularly in terms of executive compensation. Ferrari's CEO has been criticized for receiving high levels of compensation that are not fully aligned with the company's performance. Additionally, the company's board of directors is not particularly diverse, which could limit the perspectives and experiences that are represented in the company's decision-making processes.
 
 In conclusion, while Ferrari has made some efforts to improve its ESG credentials, there is still room for improvement. The company could benefit from more aggressive measures to reduce its environmental impact and to ensure fair labor practices in its supply chain. Additionally, the company could benefit from greater diversity in its governance practices, particularly in terms of its board of directors.
+
+---
+
+### LVMH
+
+- Louis Vuitton, Bulgari, Dior, Fendi, Givenchy, Guerlain, Kenzo, Marc Jacobs, Tiffany & Co, Moët & Chandon, Veuve Clicquot, Krug, Dom Pérignon, Maison Ruinart, Le Bon Marché or Séphora... 
+- But did you know that they are part of the same group? LVMH (Louis Vuitton-Moët-Hennessy), a family-owned company which has inherited a rich history and traditional craftsmanship, has steadily established itself as the world's leading luxury group. 
+- From leather goods to cosmetics, perfumes, couture, spirits, retail, luxury hotels and media, the French group headed by Bernard Arnault has evolved
+since its creation in 1987 following the merger of Louis Vuitton and Moët Hennessy.
+- Rather than starting from scratch, the group has followed a strategy of acquiring prestigious brands from the very beginning. Their traditional knowhow, creativity and sense of innovation have enabled LVMH to showcase French excellence to the world. The brand has thus become the absolute
+symbol of French luxury and craftsmanship.
+- LVMH group's main lines of business:
+  - fashion and leather goods: 37% of revenues
+  - selective retailing: 28% of revenues
+  - wines and spirits: 16% of revenues
+  - perfumes and cosmetics: 14% of revenues
+  - watches and jewelry: 5% of revenues.
+
