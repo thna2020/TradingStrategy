@@ -13,6 +13,19 @@ Factors that move energy markets
 8. World events: Events such as war, financial crises and elections can affect oil policy and costs.
 9. Import/export policy changes: Updates to policy can dramatically impact world oil supply—and in turn, prices.
 
+### Week 4
+
+-  Regardless, after yesterday’s market mauling, the Dow has now given up all gains seen thus far in 2023. 
+-  Uncle Joe’s ballsy move into Kyiv seems to have upset Russia and their lowkey BFF China more than expected…and we’re not excited
+-  There’s way too much science going on here for me, but apparently, Lithium stocks are crashing while something called “graphite” is beginning to emerge
+-  HSBC Holdings up 4.55%: While the rest of the country zigs, one of the UK’s largest banks zags as global banking giant HSBC reports some surprisingly non-trash numbers for its latest quarter.
+-  Dillard's (DDS) down 17.13%: Department stores are dying faster than your lung cells every time you hit that dispo. In this case, the Southern-focused, high-end retailer Dillard’s reported earnings yesterday only to make every shareholder wish they didn’t.
+  - Dillard's (DDS) dives nearly 20% as J.P. Morgan cuts to Sell.
+-  Walmart (WMT) fell as much as 4% after setting cautious profit guidance for the year ahead, but shares ended the session in the green, as investors focused on its earnings topper, strong comparable sales and dividend boost in the current macro environment. Home Depot (HD) also slumped initially, but the stock stayed depressed, and eventually closed out Tuesday down 7%. While earnings beat consensus estimates, sales came in short, and disappointing guidance for fiscal 2023 was not enough to counter a bigger dividend raise and bullish analyst commentary.
+-  Apple’s overexposure to China has become its major vulnerability. 
+  - While the company’s stock has a chance to further appreciate in the following months thanks to improvement in market sentiment, its upside remains limited in the long run.
+  - Apple could become the next major casualty of the potential Sino-American confrontation in the future, which makes me avoid its stock at the current levels.
+
 ### Week 3
 
 - Opportunities to invest large chunks of cash come around occasionally, like when bonds mature, and that capital needs a new home.
