@@ -194,6 +194,10 @@ The general public sees equity research analysts on CNBC explaining their “buy
 
 > Standard deviation
 
+> Stop loss
+
+- A stop-loss order instructs that a stock be bought or sold when it reaches a specified price known as the stop price. 
+
 ## T
 
 > Tight market
