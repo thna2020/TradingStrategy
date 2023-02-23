@@ -1,5 +1,0 @@
-## Returns
-
-## Volatility
-
-## Seasonality
