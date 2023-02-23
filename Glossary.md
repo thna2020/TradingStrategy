@@ -184,6 +184,7 @@ The general public sees equity research analysts on CNBC explaining their “buy
 > Short position
 
 - A short position is one that bets against the market, profiting when prices decline. To sell short is to take such a bet. This is opposed to a long position, which involves buying an asset in hopes that the price will rise.
+- A short, or a short position, is created when a trader **sells a security first** with the intention of repurchasing it or covering it later at a lower price.
 
 > Short sales
 
