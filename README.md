@@ -240,3 +240,8 @@ https://www.wallstreetoasis.com/resources/skills/accounting/profit-and-loss-pnl
 https://www.codingfinance.com/post/2018-04-10-cumulative-portfolio-returns-py/
 
 https://quant.stackexchange.com/questions/22935/how-to-get-the-the-final-return-in-backtesting
+
+https://www.rblt.com/
+
+https://www.firstrade.com/content/en-us/education/margin/margincall#:~:text=A%20margin%20call%20occurs%20when%20the%20percentage%20of%20the%20equity,have%20a%20%241%2C600%20margin%20call.
+
