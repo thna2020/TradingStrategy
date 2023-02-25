@@ -101,6 +101,17 @@ Having a “long” position in a security means that you own the security. Inve
 
 - Margin trading refers to borrowing money from the broker to purchase stock. The investor is allowed to buy more securities than what he can afford with the available funds at the moment.
 
+> Margin call
+
+- Many margin investors are familiar with the "routine" margin call, where the broker asks for additional funds when the equity in the customer's account declines below certain required levels. Normally, the broker will allow from two to five days to meet the call.
+- You have $20,000 worth of securities bought using $10,000 borrowed and $10,000 in cash. When the margin requirement is 30% and the value of the securities drop by 40% to $12,000, since the amount you borrowed from your broker stays at $10,000, your own equity becomes $2,000 which is lower than the 30% minimum margin requirement.
+  - $2,000 / $12,000 = 16.6% < 30%
+- A margin call occurs when the percentage of the equity in the account drops below the maintenance margin requirement.
+- How much is the margin call?
+  - $12,000*30% = $3600 → amount of equity you were required to maintain.
+  - $3600 - $2000 = $1600 → You will have a $1,600 margin call.
+- A margin call can be covered through: Depositing additional funds to meet the account's maintenance margin requirement; Depositing unmargined securities to meet the account's maintenance margin requirement; or Selling margined securities to meet the account's maintenance margin requirement.
+
 > Mean
 > Median
 
