@@ -160,6 +160,10 @@ Having a “long” position in a security means that you own the security. Inve
 
 ## P
 
+> P/E 
+
+- Price to earnings ratio, or P/E, is a way to value a company by comparing the price of a stock to its earnings. The P/E equals the price of a share of stock, divided by the company's earnings-per-share. It tells you how much you are paying for each dollar of earnings.
+
 > Pullback
 
 Pullbacks are a short-term, temporary drop in the price of an asset like stock during a longer-term uptrend. 
