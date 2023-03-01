@@ -245,3 +245,4 @@ https://www.rblt.com/
 
 https://www.firstrade.com/content/en-us/education/margin/margincall#:~:text=A%20margin%20call%20occurs%20when%20the%20percentage%20of%20the%20equity,have%20a%20%241%2C600%20margin%20call.
 
+https://www.schwab.com/learn/topic/fundamental-analysis
