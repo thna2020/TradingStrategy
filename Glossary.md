@@ -10,8 +10,18 @@ Adjusted EPS is a type of EPS calculation in which the analyst makes adjustments
 
 - 7 market anomalies:
 1) Smaller firms (smaller capitalization) tend to outperform larger companies. As anomalies go, the small-firm effect makes sense. A company's economic growth is ultimately the driving force behind its stock performance, and smaller companies have much longer runways for growth than larger companies.
-- A company like Microsoft (MSFT) might need to find an extra $10 billion in sales to grow 10%, while a smaller company might need only an extra $70 million in sales for the same growth rate. Accordingly, smaller firms typically are able to grow much faster than larger companies.
-2) January Effect: The idea is that stocks that underperformed in the fourth quarter of the prior year tend to outperform the markets in January. The reason for the January effect is so logical that it is almost hard to call it an anomaly. Investors will often look to jettison underperforming stocks late in the year so that they can use their losses to offset capital gains taxes (or to take the small deduction that the IRS allows if there is a net capital loss for the year). Many people call this event "tax-loss harvesting."
+  - A company like Microsoft (MSFT) might need to find an extra $10 billion in sales to grow 10%, while a smaller company might need only an extra $70 million in sales for the same growth rate. Accordingly, smaller firms typically are able to grow much faster than larger companies.
+2) January Effect: The idea is that stocks that underperformed in the fourth quarter of the prior year tend to outperform the markets in January. The reason for the January effect is so logical that it is almost hard to call it an anomaly. Investors will often look to jettison underperforming stocks late in the year so that they can use their losses to offset capital gains taxes (or to take the small deduction that the IRS allows if there is a net capital loss for the year). Many people call this event "tax-loss harvesting." As a result, there is excess selling pressure before January and excess buying pressure after January 1, leading to this effect.
+3) Low Book Value: stocks with below-average price-to-book ratios tend to outperform the market. Numerous test portfolios have shown that buying a collection of stocks with low price/book ratios will deliver market-beating performance.
+4) Neglected Stocks: The neglected-firm effect occurs on stocks that are less liquid (lower trading volume) and tend to have minimal analyst support. The idea here is that as these companies are "discovered" by investors, the stocks will outperform. Many investors monitor long-term purchasing indicators like P/E ratios and RSI. These tell them if a stock has been oversold, and if it might be time to consider loading up on shares. Though their performance appears to be correlated with size, neglected stocks do appear to have lower volatility.
+5) Reversals: Some evidence suggests that stocks at either end of the performance spectrum, over periods of time (generally a year), do tend to reverse course in the following period—yesterday's top performers become tomorrow's underperformers, and vice versa.
+  - Not only does statistical evidence back this up, but the anomaly also makes sense according to investment fundamentals. If a stock is a top performer in the market, odds are that its performance has made it expensive; likewise, the reverse is true for underperformers. It would seem like common sense, then, to expect that the overpriced stocks would underperform (bringing their valuation back in line) while the underpriced stocks outperform.
+  - Reversals also likely work in part because people expect them to work. If enough investors habitually sell last year's winners and buy last year's losers, that will help move the stocks in exactly the expected directions, making it something of a self-fulfilling anomaly.
+ 6) Days of the Week: Efficient market supporters hate the "days of the week" anomaly because it not only appears to be true, but it also makes no sense. Research has shown that stocks tend to move more on Fridays than Mondays and that there is a bias toward positive market performance on Fridays. It is not a huge discrepancy, but it is a persistent one.
+  - On a fundamental level, there is no particular reason that this should be true. Some psychological factors could be at work. Perhaps an end-of-week optimism permeates the market as traders and investors look forward to the weekend. Alternatively, perhaps the weekend gives investors a chance to catch up on their reading, stew and fret about the market, and develop pessimism going into Monday.
+7) Dogs of the Dow: The idea behind this theory was basically that investors could beat the market by selecting stocks in the Dow Jones Industrial Average that had certain value attributes.
+  - Investors practiced different versions of the approach, but there were two common approaches. The first is to select the 10 highest-yielding Dow stocks. The second method is to go a step further and take the five stocks from that list with the lowest absolute stock price and hold them for a year.
+  - To some extent, this is simply a modified version of the reversal anomaly; the Dow stocks with the highest yields probably were relative underperformers and would be expected to outperform.
 
 > Asset bubble
 
@@ -186,6 +196,13 @@ Investors targeting a particular asset can find buying opportunities during pull
 
 - If you have a risk-reward ratio of 1:3, it means you're risking $1 to potentially make $3. If you have a risk-reward ratio of 1:5, it means you're risking $1 to potentially make $5. You get my point. “You need a minimum of 1:2 risk reward ratio.”
 
+> RSI
+
+- The relative strength index (RSI) is a momentum indicator used in technical analysis. RSI measures the speed and magnitude of a security's recent price changes to evaluate overvalued or undervalued conditions in the price of that security.
+- An asset is usually considered overbought when the RSI is above 70 and oversold when it is below 30.
+- The RSI line crossing below the overbought line or above oversold line is often seen by traders as a signal to buy or sell.
+- The RSI works best in trading ranges rather than trending markets.
+
 ## S
 
 > Sell-side equity research
@@ -231,6 +248,14 @@ The general public sees equity research analysts on CNBC explaining their “buy
 > Tight market
 
 A tight market refers to a trading environment in which the price difference between the best bid and offer is very small. Tight markets tend to occur in highly liquid, high-volume blue-chip stocks where there is an abundance of buyers and sellers at all times.
+
+> Trading range
+
+- Trading range refers to the difference between the high and low prices in a given trading period. Range-bound trading is characterized by prices staying in a definable range over time. A trading range is characterized by both a support price and a resistance price, between which the price tends to fluctuate.
+
+> Trending market
+
+- A trending market is when a price series continually closes either higher or lower over a number of periods.
 
 ## U
 
