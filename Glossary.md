@@ -6,6 +6,13 @@
 
 Adjusted EPS is a type of EPS calculation in which the analyst makes adjustments to the numerator. Typically, this consists of adding or removing components of net income that are deemed to be non-recurring. For instance, if the company's net income was increased based on a one-time sale of a building, the analyst might deduct the proceeds from that sale, thereby reducing net income. In that scenario, adjusted EPS would be lower than basic EPS.
 
+> Anomalies
+
+- 7 market anomalies:
+1) Smaller firms (smaller capitalization) tend to outperform larger companies. As anomalies go, the small-firm effect makes sense. A company's economic growth is ultimately the driving force behind its stock performance, and smaller companies have much longer runways for growth than larger companies.
+- A company like Microsoft (MSFT) might need to find an extra $10 billion in sales to grow 10%, while a smaller company might need only an extra $70 million in sales for the same growth rate. Accordingly, smaller firms typically are able to grow much faster than larger companies.
+2) January Effect: The idea is that stocks that underperformed in the fourth quarter of the prior year tend to outperform the markets in January. The reason for the January effect is so logical that it is almost hard to call it an anomaly. Investors will often look to jettison underperforming stocks late in the year so that they can use their losses to offset capital gains taxes (or to take the small deduction that the IRS allows if there is a net capital loss for the year). Many people call this event "tax-loss harvesting."
+
 > Asset bubble
 
 - An asset bubble occurs when the price of an asset, such as stocks, bonds, real estate, or commodities, rises at a rapid pace without underlying fundamentals to justify the price spike.
