@@ -1,5 +1,7 @@
 ## Luxury
 
+https://jingdaily.com/china-new-luxury-consumer-post00s/
+
 - They’re high-end products that consumers want but don’t need. 
 - They’re also distinct from commodity products (such as bananas or gasoline) that are not easily distinguished by brand.
 - Luxury goods are more expensive than competing products, but they are perceived as higher quality and confer status on the owner. 
