@@ -247,6 +247,10 @@ The general public sees equity research analysts on CNBC explaining their “buy
 
 - A stop-loss order instructs that a stock be bought or sold when it reaches a specified price known as the stop price. 
 
+> Strike price
+
+- In finance, the strike price of an option is a fixed price at which the owner of the option can buy, or sell, the underlying security or commodity. The strike price may be set by reference to the spot price, which is the market price of the underlying security or commodity on the day an option is taken out.
+
 ## T
 
 > Tight market
