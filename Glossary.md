@@ -31,6 +31,10 @@ Adjusted EPS is a type of EPS calculation in which the analyst makes adjustments
 
 > Bar chart
 
+> Black-Scholes
+
+- Black-Scholes is a pricing model used to determine the fair price or theoretical value for a call or a put option based on six variables such as volatility, type of option, underlying stock price, time, strike price, and risk-free rate.
+
 ## C
 
 > Correlation
