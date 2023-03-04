@@ -251,3 +251,4 @@ https://www.thinkadvisor.com/investment-portfolio/economy-markets/stocks/
 
 https://www.investing.com/
 
+https://www.investopedia.com/trading/market-cycles-key-maximum-returns/#toc-the-4-phases-of-a-market-cycle
