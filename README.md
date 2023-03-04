@@ -248,3 +248,6 @@ https://www.firstrade.com/content/en-us/education/margin/margincall#:~:text=A%20
 https://www.schwab.com/learn/topic/fundamental-analysis
 
 https://www.thinkadvisor.com/investment-portfolio/economy-markets/stocks/
+
+https://www.investing.com/
+
