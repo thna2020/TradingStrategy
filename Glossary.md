@@ -275,6 +275,10 @@ The general public sees equity research analysts on CNBC explaining their “buy
 
 A tight market refers to a trading environment in which the price difference between the best bid and offer is very small. Tight markets tend to occur in highly liquid, high-volume blue-chip stocks where there is an abundance of buyers and sellers at all times.
 
+> Trade blotter
+
+- A blotter (also called a deal blotter or trade blotter) is a physical or digital record of all trades made over a period of time (usually one trading day) along with their relevant details.
+
 > Trading range
 
 - Trading range refers to the difference between the high and low prices in a given trading period. Range-bound trading is characterized by prices staying in a definable range over time. A trading range is characterized by both a support price and a resistance price, between which the price tends to fluctuate.
