@@ -282,6 +282,10 @@ A tight market refers to a trading environment in which the price difference bet
 
 ## V
 
+> Value investing
+
+- Value investing is an investment strategy that involves picking stocks that appear to be trading for less than their intrinsic or book value.
+
 > Variance
 
 > Volatility
