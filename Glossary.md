@@ -61,6 +61,11 @@ A fall in logistics cost lowers their final price and raises demand for goods. T
 
 ## D
 
+> Delta
+
+- Delta is the theoretical estimate of how much an option's value may change given a $1 move UP or DOWN in the underlying security. The Delta values range from -1 to +1, with 0 representing an option where the premium barely moves relative to price changes in the underlying stock.
+- Delta hedging is a trading strategy that reduces the directional risk associated with the price movements of an underlying asset. The hedge is achieved through the use of options. Ultimately, the objective is to reach a delta neutral state, offsetting the risk on the portfolio or option.
+
 > Dividends
 
 - Companies that increase their dividends send a positive signal to investors and analysts that the company can maintain growth and profitability into the future. 1 As a way to distribute profits to shareholders, dividend increases can attract new investors who seek income in addition to capital gains in their portfolio.
