@@ -35,6 +35,12 @@ Adjusted EPS is a type of EPS calculation in which the analyst makes adjustments
 
 - Black-Scholes is a pricing model used to determine the fair price or theoretical value for a call or a put option based on six variables such as volatility, type of option, underlying stock price, time, strike price, and risk-free rate.
 
+> Bottom-up analysis
+
+- Bottom-up investing is an investment approach that focuses on analyzing individual stocks and de-emphasizes the significance of macroeconomic and market cycles. In other words, bottom-up investing typically involves focusing on a specific company's fundamentals, such as revenue or earnings, versus the industry or the overall economy. The bottom-up investing approach assumes individual companies can perform well even in an industry that is underperforming, at least on a relative basis.
+- Bottom-up investing forces investors to consider microeconomic factors, including a company's overall financial health, financial statements, the products and services offered, supply, and demand.
+- For example, a company's unique marketing strategy or organizational structure may be a leading indicator that causes a bottom-up investor to invest. Alternatively, accounting irregularities on a particular company's financial statements may indicate problems for a firm in an otherwise booming industry sector.
+
 ## C
 
 > Correlation
