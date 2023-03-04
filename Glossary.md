@@ -72,6 +72,10 @@ A fall in logistics cost lowers their final price and raises demand for goods. T
 
 ## E
 
+> Efficient-market hypothesis
+
+- The efficient-market hypothesis holds that stock prices take into account all relevant information, so that no investor can beat the market by taking advantage of others’ ignorance.
+
 > EM
 
 - Emerging markets are countries with some characteristics of a developed market but are not yet fully developed. These countries have rapid GDP growth and industrialization, growing per capita income, increasing debt and equity markets liquidity, and established financial system infrastructures.
@@ -289,6 +293,7 @@ A tight market refers to a trading environment in which the price difference bet
 > Value investing
 
 - Value investing is an investment strategy that involves picking stocks that appear to be trading for less than their intrinsic or book value.
+- buying stocks based on the cash they generate, instead of trying to predict short-term movements in stock prices
 
 > Variance
 
